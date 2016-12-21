@@ -363,6 +363,23 @@ header .header-content .header-content-inner p {
     transition: all .35s;
 }
 
+.btn-inv {
+    border-color: #ededed;
+    color: #fff;
+    background-color: #8a8f6a;
+}
+
+.btn-inv:hover,
+.btn-inv:focus,
+.btn-inv.focus,
+.btn-inv:active,
+.btn-inv.active {
+    border-color: #ededed;
+    color: #fff;
+    background-color: #696d51;
+}
+
+
 .btn-default:hover,
 .btn-default:focus,
 .btn-default.focus,
